@@ -1,18 +1,18 @@
 # StartecTextBox
 TextBox com várias funções e designers para ser usado em WindowsForms
 
-funções:
-BorderRadius -> (int), Arredondamento da borda do elemento
-BorderFocusColor -> (Color) Cor da borda quando o elemento está selecionado
-MaskCpf -> (bool) Cria uma mascara de cpf e cnpj para o campo
-maskReal -> (bool) Cria uma mascara de real para o campo
-maskData -> (bool) Cria uma mascara de data para o campo
-maskTel -> (bool) Cria uma mascara de telefone para o campo
+funções:<br>
+BorderRadius -> (int), Arredondamento da borda do elemento <br>
+BorderFocusColor -> (Color) Cor da borda quando o elemento está selecionado<br>
+MaskCpf -> (bool) Cria uma mascara de cpf e cnpj para o campo<br>
+maskReal -> (bool) Cria uma mascara de real para o campo<br>
+maskData -> (bool) Cria uma mascara de data para o campo<br>
+maskTel -> (bool) Cria uma mascara de telefone para o campo<br><br>
 
 
-pode ser adicionado a qualquer projeto winforms, o projeto terá novas atualizações,mas estas feats citadas acima estão funcionando!
+pode ser adicionado a qualquer projeto winforms, o projeto terá novas atualizações,mas estas feats citadas acima estão funcionando!<br><br>
 
-exemplos:
+exemplos:<br>
 
             
             StartecTextBox example = new StartecTextBox();
