@@ -2,7 +2,7 @@ using System.ComponentModel;
 using System.Drawing.Drawing2D;
 using System.Globalization;
 
-namespace JuriConverter.App.Utils
+namespace SeuNamespace
 {
     [DefaultEvent("_textChanged")]
     public partial class StartecTextBox : UserControl
