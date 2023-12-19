@@ -8,7 +8,8 @@ MaskCpf -> (bool) Cria uma mascara de cpf e cnpj para o campo<br>
 maskReal -> (bool) Cria uma mascara de real para o campo<br>
 maskData -> (bool) Cria uma mascara de data para o campo<br>
 maskTel -> (bool) Cria uma mascara de telefone para o campo<br>
-Multiline -> (bool) Cria um campo de varias linhas para o elemento<br><br>
+Multiline -> (bool) Cria um campo de varias linhas para o elemento<br>
+PlaceholderText -> (string) Cria um campo de placeholder para o elemento<br><br>
 
 
 pode ser adicionado a qualquer projeto winforms, o projeto terá novas atualizações,mas estas feats citadas acima estão funcionando!<br><br>
